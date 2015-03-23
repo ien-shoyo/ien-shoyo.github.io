@@ -376,7 +376,8 @@ ul.disc {
 	list-style: disc;
 }
 .color1 {
-	color: #ebcd26;
+    font-size: 18px;
+    color: #ebcd26;
 }
 .pr {
 	font-size: 10px;
